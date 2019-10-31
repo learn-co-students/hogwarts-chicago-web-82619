@@ -21,7 +21,7 @@ class App extends Component {
   handleFilter = ({filterGrease, type}) => {
     const newState = {}
 
-    if (filterGrease != undefined) {
+    if (filterGrease !== undefined) {
     newState.filterGrease = filterGrease }
 
     if (type) {

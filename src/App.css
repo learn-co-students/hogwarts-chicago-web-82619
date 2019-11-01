@@ -138,3 +138,11 @@ ul {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.sort {
+  margin: auto 50px;
+}
+
+.hidden-btn {
+  margin: auto 50px;
+}
